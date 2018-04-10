@@ -3,4 +3,8 @@
     <string name="message_hint">Type your message here…</string>
     <string name="activity">Activity</string>
     <string name="email">E-mail</string>
+    <string name="email_scheme">mailto:</string>
+    <string name="email_sender">fakemail@gmail.com</string>
+    <string name="email_subject">Test my android app</string>
+    <string name="email_client_error">Not found any exported e-mail clients</string>
 </resources>
